@@ -1,0 +1,44 @@
+{
+    "Waste Management": {
+        "description": "Waste management is the process of collecting, separating, treating, recycling and safely disposing of waste.",
+        "recommendation": "Follow the 5Rs: Refuse, Reduce, Reuse, Repurpose and Recycle."
+    },
+
+    "Types of Waste": {
+        "Organic Waste": "Food scraps, vegetable peels, fruit waste, leaves and garden waste.",
+        "Plastic Waste": "Plastic bottles, containers, packaging materials and plastic bags.",
+        "Paper Waste": "Newspapers, cardboard, notebooks and paper packaging.",
+        "Glass Waste": "Glass bottles, jars and containers.",
+        "Metal Waste": "Aluminium cans, steel cans and other metal items.",
+        "E-Waste": "Old computers, mobile phones, chargers, keyboards, batteries and electronic devices.",
+        "Hazardous Waste": "Materials such as certain chemicals, paints, batteries and other potentially harmful materials."
+    },
+
+    "Recycling": {
+        "Plastic": "Clean and dry recyclable plastics before placing them in the appropriate recycling collection.",
+        "Paper": "Keep paper clean and dry. Cardboard can usually be recycled when it is not contaminated.",
+        "Glass": "Glass bottles and jars can commonly be recycled. Follow local collection rules.",
+        "Metal": "Metal cans are commonly recyclable when properly emptied and cleaned.",
+        "E-Waste": "Electronic waste should be taken to an authorized e-waste collection or recycling facility.",
+        "Batteries": "Do not put batteries in ordinary waste. Use appropriate battery collection facilities."
+    },
+
+    "Composting": {
+        "description": "Composting converts suitable organic waste into nutrient-rich compost.",
+        "examples": "Fruit peels, vegetable scraps, dry leaves and garden waste can be suitable for composting."
+    },
+
+    "Recommendations": {
+        "Plastic Reduction": "Carry reusable bags and bottles and avoid unnecessary single-use plastics.",
+        "Food Waste": "Plan meals, store food properly and compost suitable food scraps.",
+        "Electronic Waste": "Repair or donate usable electronics and send unusable electronics to authorized e-waste recyclers.",
+        "Paper": "Use digital documents when practical and reuse paper before recycling it."
+    },
+
+    "Suggestions": {
+        "Home": "Keep separate containers for different types of waste.",
+        "College": "Place clearly labelled waste bins around classrooms and common areas.",
+        "Community": "Organize waste-segregation awareness programs and clean-up activities.",
+        "Environment": "Reduce waste generation before focusing on recycling."
+    }
+}
